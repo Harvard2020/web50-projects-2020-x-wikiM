@@ -129,4 +129,3 @@ if __name__ == "__main__":
         markdown_str = handle.read()
     print(markdown_str)
     print(markdown_to_html(markdown_str))
-
