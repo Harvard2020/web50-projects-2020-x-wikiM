@@ -150,3 +150,4 @@ USE_TZ = True
 >>>>>>> 323cbed56534f37580f2db0e532a9b7ac9b5db10
 
 STATIC_URL = '/static/'
+
